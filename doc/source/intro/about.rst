@@ -5,7 +5,7 @@
 About CICE
 =============
 
-TEST TEST TEST CHANGES HERE
+TEST TEST CHANGES HERE
 
 The Los Alamos sea ice model (CICE) is the result of an effort to
 develop a computationally efficient sea ice component for a fully
