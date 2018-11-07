@@ -1,5 +1,14 @@
-[![Documentation Status](https://testing-rtd-bot.readthedocs.io/en/latest/?badge=latest)](https://testing-rtd-bot.readthedocs.io/en/latest/?badge=latest)
+RTD badge
 
+[![Documentation Status]
+(https://readthedocs.org/projects/testing-rtd-bot/badge/?version=latest)]
+(https://testing-rtd-bot.readthedocs.io/en/latest/?badge=latest)
+
+Original CICE badge
+
+[![Documentation Status]
+(https://readthedocs.org/projects/cice-consortium-cice/badge/?version=master)]
+(http://cice-consortium-cice.readthedocs.io/en/master/?badge=master)
 
 ## Overview
 This repository contains the files and code needed to run the CICE sea ice numerical model starting with version 6. CICE is maintained by the CICE Consortium. Versions prior to v6 are found in the [CICE-svn-trunk repository](https://github.com/CICE-Consortium/CICE-svn-trunk).
@@ -21,3 +30,6 @@ imperative you follow the guidance for Pull Requests and requisite testing.
 * **Resource Index**: https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index
 
    List of resources for information about the Consortium and its repositories as well as model documentation, testing, and development.
+
+
+
